@@ -1,9 +1,8 @@
 class Student < User
 
-  def learn(string)
-    knowledge << string
 
 
-  end
+
+  e
 
 end
