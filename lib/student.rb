@@ -5,7 +5,7 @@ class Student < User
   @@knowledge = []
 
   def initialize
-    @@knowledge << self
+    @@knowledge
   end
 
   def learn(string)
